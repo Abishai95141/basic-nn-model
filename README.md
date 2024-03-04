@@ -103,7 +103,8 @@ AI_Brain.predict(X_n1_1)
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+![image](https://github.com/Abishai95141/basic-nn-model/assets/139335314/5e0cf1d5-16a5-408a-a7af-5dc8bac63836)
+
 
 ## OUTPUT
 
@@ -119,8 +120,9 @@ Include screenshot of the dataset
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/Abishai95141/basic-nn-model/assets/139335314/7e2b010a-6b6c-452e-8787-1680482217da)
+
 
 ## RESULT
 
-Include your result here
+Thus, the Process of developing a neural network regression model for the created dataset is successfully executed.
